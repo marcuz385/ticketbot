@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "guildId": "1499068438738501795",
+  "ticketCategoryName": "Tickets",
+  "ticketChannelPrefix": "ticket-"
+}
